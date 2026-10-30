@@ -55,9 +55,6 @@ We look at both at once: the **data** a company produces and the **processes** i
 - **Start small, prove, grow.** Measurable pilots before large investments.
 - **Leave the client stronger.** We train teams so the company keeps evolving on its own.
 
-### Who's behind it
-
-Paralaxe Analytics was founded by **Jose Bagatelli**, who brings more than 25 years of experience, 15 of them in Australia building data platforms for large corporations and government bodies. AI changed what it costs to build this kind of solution. Paralaxe exists to bring that experience to small and medium businesses in Brazil, at a price they can afford.
 
 ### Get in touch
 
@@ -115,9 +112,6 @@ A Paralaxe olha pelos dois ângulos ao mesmo tempo: os **dados** que a empresa p
 - **Começar pequeno, provar e crescer.** Pilotos com resultado mensurável antes de grandes investimentos.
 - **Deixar o cliente mais forte.** Treinamos o time para que a empresa continue evoluindo com autonomia.
 
-### Quem está por trás
-
-A Paralaxe Analytics foi fundada por **Jose Bagatelli**, com mais de 25 anos de carreira, 15 deles na Austrália, desenvolvendo plataformas de análise de dados para grandes corporações e órgãos de governo. A inteligência artificial mudou o custo de construir esse tipo de solução. A Paralaxe existe para levar essa experiência às pequenas e médias empresas brasileiras, com um custo que elas podem pagar.
 
 ### Fale com a gente
 
