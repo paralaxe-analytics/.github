@@ -55,12 +55,10 @@ We look at both at once: the **data** a company produces and the **processes** i
 - **Start small, prove, grow.** Measurable pilots before large investments.
 - **Leave the client stronger.** We train teams so the company keeps evolving on its own.
 
-
 ### Get in touch
 
 🌐 [paralaxe.com.br](https://paralaxe.com.br)<br>
-✉️ [contato@paralaxe.com.br](mailto:github@paralaxe.com.br)
-
+✉️ [github@paralaxe.com.br](mailto:github@paralaxe.com.br)
 
 **We solve problems. Period.**
 
@@ -82,7 +80,7 @@ Paralaxe é a diferença na posição aparente de um objeto quando ele é observ
 
 A maioria das empresas olha para o próprio negócio com um olho só. Ou olha pelos números, nos relatórios e nas planilhas, ou olha pela rotina, no jeito como as coisas são feitas no dia a dia. Quem só olha os números não entende *por que* eles acontecem. Quem só olha a rotina não sabe *quanto ela custa*.
 
-A Paralaxe olha pelos dois ângulos ao mesmo tempo: os **dados** que a empresa produz e os **processos** que ela executa. Quando cruzamos os dois, aparece o que nenhum deles mostra sozinho: onde o dinheiro escapa, onde o tempo se perde e onde estão as oportunidades de crescer.
+A Paralaxe Analytics olha pelos dois ângulos ao mesmo tempo: os **dados** que a empresa produz e os **processos** que ela executa. Quando cruzamos os dois, aparece o que nenhum deles mostra sozinho: onde o dinheiro escapa, onde o tempo se perde e onde estão as oportunidades de crescer.
 
 > Um olho vê os dados. O outro vê os processos. Só com os dois se enxerga a profundidade do negócio.
 
@@ -112,11 +110,10 @@ A Paralaxe olha pelos dois ângulos ao mesmo tempo: os **dados** que a empresa p
 - **Começar pequeno, provar e crescer.** Pilotos com resultado mensurável antes de grandes investimentos.
 - **Deixar o cliente mais forte.** Treinamos o time para que a empresa continue evoluindo com autonomia.
 
-
 ### Fale com a gente
 
 🌐 [paralaxe.com.br](https://paralaxe.com.br)<br>
-✉️ [contato@paralaxe.com.br](mailto:github@paralaxe.com.br)
+✉️ [github@paralaxe.com.br](mailto:github@paralaxe.com.br)
 
 **Nós resolvemos problemas. Ponto.**
 
