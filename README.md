@@ -62,7 +62,7 @@ Paralaxe Analytics was founded by **Jose Bagatelli**, who brings more than 25 ye
 ### Get in touch
 
 🌐 [paralaxe.com.br](https://paralaxe.com.br)<br>
-✉️ [contato@paralaxe.com.br](mailto:contato@paralaxe.com.br)
+✉️ [contato@paralaxe.com.br](mailto:github@paralaxe.com.br)
 
 
 **We solve problems. Period.**
@@ -122,7 +122,7 @@ A Paralaxe Analytics foi fundada por **Jose Bagatelli**, com mais de 25 anos de 
 ### Fale com a gente
 
 🌐 [paralaxe.com.br](https://paralaxe.com.br)<br>
-✉️ [contato@paralaxe.com.br](mailto:contato@paralaxe.com.br)
+✉️ [contato@paralaxe.com.br](mailto:github@paralaxe.com.br)
 
 **Nós resolvemos problemas. Ponto.**
 
